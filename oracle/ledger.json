@@ -1,0 +1,2054 @@
+[
+  {
+    "timestamp": "2025-12-03T06:08:05.337Z",
+    "transaction_id": "tx_1764742085067",
+    "amount": 623.1563005805594,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "VHy4mBjgTW1mWhwPox0dOVI7ZNE/xgcs7nwCn+gJe/wm/SG4nlI5C2OxSF20+Vx5EYgRhaRwpRwtlNlhP9epCQ==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:08:10.362Z",
+    "transaction_id": "tx_1764742090294",
+    "amount": 495.6936663840534,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "8yu9AYg/2USeuI7FHvYm0N4TSSfSk4x3abMHdUds7iMA4FXDMhxjuh+wFqOfZjqmXALSb+nwkuXQubdcCwHuBQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:08:15.346Z",
+    "transaction_id": "tx_1764742095296",
+    "amount": 435.55437958183853,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "i4uNmb6P6pGLFsI/fWTs4Ypka2IQJU2JrI7Qg3ML5MxOxNve11hQCMARv19GEKTG8QZLQrTrwhyHTBNCFHoeCA==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:08:25.361Z",
+    "transaction_id": "tx_1764742105310",
+    "amount": 294.621112578225,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "5JFoTsLcNyow1yikEMB4ICsJ0bZMcHC1RfhrOkAjpL853r7aEHUFSxvbD7xq+0MWJaow4iZIvJ96rNmKncI1Dw==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:08:30.362Z",
+    "transaction_id": "tx_1764742110323",
+    "amount": 842.4613271170815,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "IWy/adFjcGyq9BWakPsuYMQJqjnyJzFf4qdVr+AN51xDBCQvZrMbcVxra9Wjq8rxmxP4xngOBgoYJAkZ6B0yCg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:08:35.373Z",
+    "transaction_id": "tx_1764742115338",
+    "amount": 875.2318129697128,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "ZH1ag+KIx2i3fDXm82V8Tqyp2YMj2DZl1gSKjeyA9ka6JDXSvFWsG47je/ruayFFhsO6SsnnieIv+0sDhy0CAg==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:08:40.379Z",
+    "transaction_id": "tx_1764742120345",
+    "amount": 281.04729412755466,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "xZpFamL9U4GXw9IrlkRZb4Ek1xRFDq9aoaOAMl9VaVAQSfhZYxvvL/CwYPTiM5JD3jNyB/YTl/Jur0fESIhHDQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:08:45.403Z",
+    "transaction_id": "tx_1764742125351",
+    "amount": 196.4715296707211,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "8mvTQDTfdXfiuXS/hGv4Z/m/oFt0uSY+DwhOsdH8gNFP6yYnmwtqsgkgc45sjfNN8Fmi9w3F20XxGi7G904ZAg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:08:50.432Z",
+    "transaction_id": "tx_1764742130356",
+    "amount": 361.31079453966106,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "vF/mKLyzW1MMZVJsFSZjugr7mpwygLG+sMNwPub3hYex2adN6hiu0e6gkTKTAN4viUCkTJ4DgvQu/WccjB0CCA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:08:55.471Z",
+    "transaction_id": "tx_1764742135363",
+    "amount": 164.94239561145608,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "WjRY2r9w4jb3QRUXBdiw92IIiN4mENvVIodkUpIIX/vQwGPqBGAvefwbE6kO34f0CtPY+mSFOht2iIQMNvnjDg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:09:00.475Z",
+    "transaction_id": "tx_1764742140380",
+    "amount": 383.08093104652585,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "KlgqXmPkJdjtHr3sWSwiKVOTsIROWuWo+p5rkU/MkQ6dzi/Euc0dWY2U0KYdg+XwNlJTjyFnG3gp8psU2fkAAg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:09:05.472Z",
+    "transaction_id": "tx_1764742145384",
+    "amount": 924.2912553174225,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "p+IFJB/Mqlo1GRAKTvzk4Nnpf/0CyHVKXlSMjPHw2v6eVvKQCpAQ6WZaxunuDoAxRdixXxzkT1Pm52ohogWtBg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:09:10.472Z",
+    "transaction_id": "tx_1764742150390",
+    "amount": 377.44773515602645,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "V1woyR+bf4Psg+qQcmWbihHa9j5uKtO/7N28yaURZl9RDVqWaDPdC5RJ71umOOV37VTbEDINxaS6XcbtyWkfDw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:09:15.504Z",
+    "transaction_id": "tx_1764742155398",
+    "amount": 24.32772943600059,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "jj9N6YTi5w5mYZQfQx0HFc1op4i/3ccBcQ0CGXVoHIu+FxQ71Di8mtUfNKRso3mxcec1tkqsYN0dODvWfTh2CA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:09:20.497Z",
+    "transaction_id": "tx_1764742160404",
+    "amount": 56.7487322368897,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "qj4dN00q8XioYopyalWiuSs1biZi5SHNt9b5ULrRbrbSFJpuzE26uU84hsnJqPcaH5HWg90t4QL2hGLTFQ2nAA==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:09:25.466Z",
+    "transaction_id": "tx_1764742165417",
+    "amount": 516.2763039777144,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "TAOOhDteTO4VUjAFbjj9C6luarcyA7xlXNiH/m+o3+1tx0tKw5ecHCIbxt3irs6cWCIEQ7/P8OPyKyuG8xIyDQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:09:30.493Z",
+    "transaction_id": "tx_1764742170429",
+    "amount": 934.0331228147215,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "6NNEiSvvhz4h3JBqdJz06oRCDblMh5VNJk8nhelxkurvIpLvQXgdW+eXPPRqkNLB5MiL1W/lt+lk16SD5/ahCw==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:09:35.462Z",
+    "transaction_id": "tx_1764742175431",
+    "amount": 880.3458480276955,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "DM1v1eTnS+yj7mdzPxlI37ozQnNGzf+BRicQt6fR/q794JC0Ld4l95+VLyHu5rU+liDBBAwB520jd6aHGMjhDA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:09:40.476Z",
+    "transaction_id": "tx_1764742180440",
+    "amount": 292.3099938632138,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "a5Oxfr1wDZv4f6WuajWThZNwlYlF0A77gp8GyHe5dMJgPPzo47Pyga7AFwWSOc1iVKYOzmGWiwQ8t3ES6Y7bBw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:09:45.496Z",
+    "transaction_id": "tx_1764742185444",
+    "amount": 742.7701396572509,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "/7aBd1JAMleqY+JGH7FMJNutTz26xiOf1y6HxDg+mPqq7G0VDqjdN+LxybESH27LRXIE3vjQDJ0x/I1hZse9DQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:09:50.501Z",
+    "transaction_id": "tx_1764742190445",
+    "amount": 852.1856306782222,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "S1oL5JeIBS2iXc2r+3b1v1dP6klFWu0nhdqcfZh19W8f4xKIrlGypLWSadmCyZ3tV4Ggdy+yens0yWFB7rMQDw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:09:55.504Z",
+    "transaction_id": "tx_1764742195453",
+    "amount": 672.493071530574,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "2dw4yJDXHJx7g81pAK5gNQUjp26rzXyWzbkB8OuuUDZYop5mIlFAuP+rKtA/HoczQSfcjDAUfftnvdUjZl9/AA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:10:00.516Z",
+    "transaction_id": "tx_1764742200466",
+    "amount": 722.2943733966364,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "/5G/8R9QaaI4jsh2hNEQk0QFIpXtSbFjqQbwT8a4yF2KaIvKtwoH5SLqIM5eRdaDyrgVXu49L13kc+5RBGSLCA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:10:05.533Z",
+    "transaction_id": "tx_1764742205467",
+    "amount": 187.25423081516303,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "Nxzb5ToCCK/rjtV4z2WJh/BrlC4ThgcOK3SlYidDbms/ecPLACTv5JQvfhR0eZleOFGTuFbWAGuuGHcbbYG5Ag==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:10:10.522Z",
+    "transaction_id": "tx_1764742210479",
+    "amount": 113.70266887889002,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "qkyQ3GOpi8W0KZBnIS2qKFPcPhWPWV69YDIVR5hrlA1OD7SsFEYJJpBOwuMZnxerionvzPBu8kAt2tLVqlYuBg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:10:15.531Z",
+    "transaction_id": "tx_1764742215488",
+    "amount": 795.8535592116679,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "se5v/lXT3Wcz6PUKMSEkDTjcWFKvmgncD2wiSVinxua7gL362gCCFCE13s/JzPkCyRk5Mje+7Ncevasd/PABDA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:10:20.562Z",
+    "transaction_id": "tx_1764742220493",
+    "amount": 550.7588070860616,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "4gaaw9qnZEiy+ts2Kv8kSrKtOn/d5SxlY/4B2e52qLebD5SGSYLEsQqWFmSEY1fnyF8ENMnTRkfj10DIqJt2BQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:10:25.550Z",
+    "transaction_id": "tx_1764742225508",
+    "amount": 868.0424281386936,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "fgHg3Vm2C+9YUOf+p9BPEmHeHk5PQbfXMHPCoO/NwP1dkCpJMPAt3Bux8H7enck8FWgdrC3F7WHTKCQ9BjKHBg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:10:30.569Z",
+    "transaction_id": "tx_1764742230520",
+    "amount": 765.523975200477,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "/X0Cx+fga9ecv5z5WgWOgF/yfNL+/JRZ4CQaYpXoPPZoAR3iMWAyLJ0/dVy+mDe3Hi1aCJqWLzukhSyKsaFODQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:10:41.259Z",
+    "transaction_id": "tx_1764742240551",
+    "amount": 431.7637353441436,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "9AltvkFg72ZgOywtc3mG0dK4c6OJPWW8BQHyJ5CC9XgydJb4QyiOHfkZ/OEt4AbIlrxRH6jDEaRPTPbJBMMSDw==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:10:41.333Z",
+    "transaction_id": "tx_1764742235538",
+    "amount": 985.0101001109581,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "12TxBF1BSOLBaKJdRltzgaVNUKBGs0TDxfE8Psta08EuCslImcYHT6dv10sjYdrqRMMgS0oNF2Pe2v7OnTTwAw==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:10:45.609Z",
+    "transaction_id": "tx_1764742245553",
+    "amount": 960.1340264179215,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "8Up4buXFHd5sqavkTNPAhGZTsfi8kHXeOGCmJrmJeHjpwTLQeTHgjXGhKyUkb2LeQrB38JBpkZp0xxHsDXdcAA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:10:50.601Z",
+    "transaction_id": "tx_1764742250554",
+    "amount": 380.1275509212615,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "n7r70Zt2HcthoPxLNBwKJR3dRa/Y0qa56FzI2d42GM9FmcPlAFRjqx5/OwZKHP/NLB/mr6rCzjrWwDehqghyBA==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:10:55.626Z",
+    "transaction_id": "tx_1764742255564",
+    "amount": 87.58464296676327,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "/ybA1ok1HvzAYkhFt6dKhycRbca1rR91WX9q/YGniXtUUi8JSEGJJVEdMbKGRCO6dKPEtox87wz5BsjhfKUaBg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:11:00.605Z",
+    "transaction_id": "tx_1764742260564",
+    "amount": 812.0748640496425,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "+DWB4NU77/ZS2itX9W1jXUq5spcTKFbvULzkIRyZIqYtQe51oQxsUt652zqGAeM0SiJ5k7S4OmhK8Z3E2PujCg==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:11:05.622Z",
+    "transaction_id": "tx_1764742265565",
+    "amount": 550.2172056379577,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "RGefur1MQIHyez8Grgm+mQuUEPLOLiKDba+P+tljFJjR9Z5o2R0piezbTmiji7xIQHPTFvn8Shk9gKhpuqrzCA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:11:10.638Z",
+    "transaction_id": "tx_1764742270576",
+    "amount": 335.5251755404616,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "ICY1QJa5/xvD3IlRLA/llpvXpzRX417HyaTORdbeLSAWoEvuKIBvcQvL1ICuNFLh0i4PXfwgSGvX+OFtzS5gCQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:11:15.635Z",
+    "transaction_id": "tx_1764742275576",
+    "amount": 667.006526564548,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "21GxYXPd/j+5fPZ5SmwzokW/ZUywKDNXC2Vx9CJ5vGvE/q2LXfhaJRgEAwdb3UAtT14kc1T4eWGnDX2+CwmpBA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:11:20.639Z",
+    "transaction_id": "tx_1764742280583",
+    "amount": 801.4282859432973,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "MdYmEIutjzrKgHoq7uS9iuiOtyuZTYFB7Xesy+JIGjAKUGq/eFPxADRk21YoSEJrNlwmp9xMxcndIKoQXIrTCg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:11:25.767Z",
+    "transaction_id": "tx_1764742285590",
+    "amount": 958.5162718395247,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "o23x79TAyBNoocX8256bGQGFT/ASDBo6M/lU1+ZPOmz4uykiBKiX2LFI92D07Bl/s0RDdldwnqENbdr8XXrIAg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:11:30.654Z",
+    "transaction_id": "tx_1764742290597",
+    "amount": 168.1522391704703,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "ILvWtVzOIInfDxsCt3+ylMdJMOLjOADoXjT9OtISypKITpJHtdLXQdDJKt+vAILB8YnneckswsKGPfo8HDuFCA==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:11:35.648Z",
+    "transaction_id": "tx_1764742295598",
+    "amount": 591.1967438957582,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "g6GijwarDg7GQYo7EC2Jvd6vYx9XUkh0HV6Q4XFEF46XKZLCAut/NVUuFF6E/29J91dIBXnwoA6FsDbHFubGCA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:11:40.660Z",
+    "transaction_id": "tx_1764742300599",
+    "amount": 679.026196326166,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "xPvvq3MDbAJqVQwrNf8ag3IFmtHXkvBNwo53eRoRQ7rdhH9Z83lP0/5OUDcIq/N6M7/LuAoPcZ1uS06Iv8bkAA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:11:45.650Z",
+    "transaction_id": "tx_1764742305607",
+    "amount": 938.803677132647,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "U4HuVIE33E1dI9aPCloHHnQK6T1dUWO8ZJq70FuB5EsMSBlfbv3XuI5mtP581EZ0g67T7aH47ZAZocBq6XreCA==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:11:50.703Z",
+    "transaction_id": "tx_1764742310616",
+    "amount": 161.13613950373963,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "v8IfmhkYg/Lu23z7plzIBcgkSvDMVkEB6FoW3GNYsxzZT/ZeQF3BaLyvwQ0gdPVvLryULIBO5fk9enws/dHbCg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:11:55.698Z",
+    "transaction_id": "tx_1764742315623",
+    "amount": 697.4315349974987,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "JIzS8WdRSoHlBEWCzBsItQgjoGk04wj3IwFl0znSFuHp2aJzEwjM9toOGWB7BqkmPRD3LoYhHE7B+fqKLSLCBQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:12:00.722Z",
+    "transaction_id": "tx_1764742320630",
+    "amount": 494.0307862200184,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "xeeCOpXKlgL9IqHyjzAyFx+MrdPzeWHuw8u2HyaiPBThAUvAfeUBtVoOdmHIQmdwQUfP81qI6xShDbfZRJ0PBQ==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:12:05.708Z",
+    "transaction_id": "tx_1764742325630",
+    "amount": 507.02261282726647,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "4FHwuUcxYaXeGm6tEyTGa+os0iMQdrFo//KqArbnSTGcUSOCu6LfrDhZ9i3Y2lnE2dVUBz4zfEW/Lb8SwMQnCg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:12:10.672Z",
+    "transaction_id": "tx_1764742330632",
+    "amount": 913.6483953752777,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "1uz49WmDOGmwDz0q89GJHrt0MdcaXtJkt5EtNrDCmirQvgMyx2pyPfvyv38M6f8hzo+2Tnl3Vkbfl0J0YqM/Dg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:12:15.683Z",
+    "transaction_id": "tx_1764742335639",
+    "amount": 304.3832603842529,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "CTmY3DuBlnDin23VHA9lCyR5hERdylGMa2B/oYocmdGQA1flcWibIE6wtnBQUktsaWf9Dlp3YxZUac4bFq+hBg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:12:20.713Z",
+    "transaction_id": "tx_1764742340646",
+    "amount": 536.6218451275415,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "oMrnghah8ac+5Q2rRFx0GuhXglzpMxC8NQsMQNtB40PuvxnhXevo7rR/ftJHz8cmOR/x+9sf62eLrP6vBC4CBg==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:12:25.697Z",
+    "transaction_id": "tx_1764742345645",
+    "amount": 813.8127692476844,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "2TpIwqxXOpMFttJBwB2Nn7D2rT6ZgfzWHrtPGhqF+Vc5NQLMTF/SluCHAoRKuHIk086eKhdwNDAQg30l9CDqDA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:12:30.683Z",
+    "transaction_id": "tx_1764742350654",
+    "amount": 480.7698885142948,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "k397lzJUsEwb6ZH4Ga5M8AlZieIagmEPq/MPn+3pXj0ig/11Sn/QUeifWCHC5tRhxCT0J+Tv7LmP7rxcGtx9Bw==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:12:35.700Z",
+    "transaction_id": "tx_1764742355663",
+    "amount": 717.915361274597,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "DOlUflqjnuVDcdpU0CBGgkTIoIPjPfXxNwgaaBNX9bPP1M85iDBcxsyL888rVMtkTU4aeYq4fusnHrpo3YviCg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:12:40.705Z",
+    "transaction_id": "tx_1764742360670",
+    "amount": 336.6613885099906,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "GYzWfoDDD8dWzegnjkh9b9O28x5LCmyO1gs5XAlXYwWyen7FefUTWp1haRc6S+1h6wJhvnLORfKOF3ayKLpzAw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:12:45.726Z",
+    "transaction_id": "tx_1764742365677",
+    "amount": 212.04121362637662,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "2OMry6sPGRt3QjjKCq2a3Bhz4isTrEKZP7lTfx6jUcZX8IYtLrlAeImCbOn7m9bIsyDHBZz4mG3ZkOcHwVprBA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:12:50.733Z",
+    "transaction_id": "tx_1764742370692",
+    "amount": 689.1812675254621,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "XxlNs0JsLpvab3xXOi26NXLyHtiMLYwX+08gV49JuYb7TriWHIQpQ94OovFHGwX2Z6wVZzVjslTo0nUzAheyCg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:12:55.731Z",
+    "transaction_id": "tx_1764742375700",
+    "amount": 416.00694436009087,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "1nOQcGPhnPTOGL/tI33Vrg55BhnQJ6pT4yP1W0m0GYpOPwik64fab6PzjYFs1vq0SA2Y6eRPXM5EWDkyo06+Aw==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:13:00.782Z",
+    "transaction_id": "tx_1764742380703",
+    "amount": 709.1171598091147,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "myms0WnYb1wq5TpMWPNyvRmvCri1/5SmosR+U6+FQfcaSNlNdzW//5ZE0MYJv7jsrN1I/XSY4A3+Qhujs2GhCw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:13:05.758Z",
+    "transaction_id": "tx_1764742385706",
+    "amount": 746.7040630000943,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "S8RmrJNV5aAatxCKYIb0sHo39Lbz3gL4MYAg1KXAT4IbYI+iONvW0Iod5Xflcj+QdUkaWPtxBznBMZV8cauNAg==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:13:10.778Z",
+    "transaction_id": "tx_1764742390712",
+    "amount": 886.516255457661,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "daR44cZhLcViopaxRfW9HF10UBDQ9WplGbZkQhAgucc+vPkGj9cdO4+Ja80ul5ienGGinTXTWxkA/85/sx5BAQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:13:15.759Z",
+    "transaction_id": "tx_1764742395719",
+    "amount": 838.2080390322724,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "kjzutfNkicHfQMnvLrjJXsUBG1QQYMYvnQSBbTt7NY2PxRLkI+OYgzNxim0K6gQKNjZSUeu5eiZTfjYNdXGXCQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:13:20.754Z",
+    "transaction_id": "tx_1764742400729",
+    "amount": 156.4479575257094,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "n8NAK3btOEbqoVbYj3mg9OGle46mSDa9wfU1fq+kujpe5KtPA+oxXX+XAEcIUhQzgLnrx3lw1KJcwrmUAcSrDg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:13:25.767Z",
+    "transaction_id": "tx_1764742405738",
+    "amount": 211.9147124915869,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "3AS36VugIPcw81OHDOXtie+fGq21BJO0f7KFGqJmbOjp4PO/mfm90hvR2wUjYhITCnQr9vQSz1n20Xn5EqE8AQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:13:30.783Z",
+    "transaction_id": "tx_1764742410754",
+    "amount": 222.98679480386753,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "WQiJW1c/4dRU8BY/G7/CIZhJyQ/TYt/BbzD/uRIxV3xIzWIap6pLdt9yVHpcvbh0uFR280OBQOt1KAeJPVW5CQ==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:13:35.786Z",
+    "transaction_id": "tx_1764742415754",
+    "amount": 847.9461396962024,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "Ek2mWjOQy7WXE78WJeLNFS8xjfJlhp2Eo4RgbaUDLXHwYmjPG01Y8eMo7lMfSxpVY3GM8XEXxzbAm6Wd/ZOABA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:13:40.806Z",
+    "transaction_id": "tx_1764742420760",
+    "amount": 311.73589900750363,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "D5vCITmvAoQm/FUrIGkgIQ2qybdXWRpqsN0y0NZtleWQeqcCiiMGhmQakOtOOul3eTyzUd7doe6Bm3pUqF6KDQ==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:13:45.817Z",
+    "transaction_id": "tx_1764742425771",
+    "amount": 763.9504344466666,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "sxI/o7gk8Py73ULqxkpXyCId9xa1CYNoQyq4yZsjEZrs/+WU7Pv9/M/39be5pEmv/lVmRkNp85z4tUhqk4+qAA==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:13:50.840Z",
+    "transaction_id": "tx_1764742430772",
+    "amount": 894.1221406593667,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "Z2oq1YvfAvKGieso/wiCh+d+AIitviio1BrybFT6oY9cgc93C6X/1fZOKX1nEb0PQ2vXNmNKFbm2z8tYRzdjBw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:13:55.815Z",
+    "transaction_id": "tx_1764742435788",
+    "amount": 589.6705205010168,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "L/2S7fFATa3xEY153PYBLbLTZs5I089dKdVu3y0jWZv2749HxaZbssGUhnmdkBptIyQkWNOqs7sqCR2l7VAIDw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:14:00.846Z",
+    "transaction_id": "tx_1764742440795",
+    "amount": 848.0119482018717,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "4NYyzI0NtPuLtgfJFpsXDfwdrtjn1agrhXYfx9vzfIqIr8YRPT8sogcsEtYAiXVVJemVt+TpMtThVNnQyl5uCw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:14:05.837Z",
+    "transaction_id": "tx_1764742445799",
+    "amount": 320.21253141006014,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "x9P3gAf8XqGFEy8kRqZYopaeaPTXz6adgIz8lKjJy2L6XSjjiLEdtEWgPN11Jqtv94AJhU+DEe3OVAFtOkqoBQ==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:14:10.831Z",
+    "transaction_id": "tx_1764742450802",
+    "amount": 614.2673195530405,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "gu2ci3JDzC32Ze7NYUzjxkS6YuC4+oqSjHe6sJin7NSybHTUcj/sb47PoaxXcqh5nEstcdeCgTls1Q1bovYsAw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:14:15.855Z",
+    "transaction_id": "tx_1764742455810",
+    "amount": 95.9748393991816,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "0WdXJslU8P4PI497212xJvN6PEraiAyeFW0DEndXTNGkU/ypo9l1ER/BQO1cn71BF7ZxvVJIW9A0WDrMpDSODw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:14:20.877Z",
+    "transaction_id": "tx_1764742460817",
+    "amount": 515.9593991581805,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "g0zHH/idfQDpcIEsr9ZmHlPeMVxQCfLts3CWGYIIbwCMTrAE1Dc5vB19MBmu44NCebSoGFvbiZs99HcHE7L0CA==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:14:25.874Z",
+    "transaction_id": "tx_1764742465823",
+    "amount": 237.11725726858845,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "Of6U5D1woHVqWTlMgtiT637fB32W9h+gPgAX9pH32dXxm5mv11yPpmWq97o6d7B7os7Z+9EwbZ5Jp/zqGlQYDw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:14:30.862Z",
+    "transaction_id": "tx_1764742470832",
+    "amount": 617.4499237989015,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "lHj+MBoyQIV1belMqGURb+1W3yKB7aeigTJqGhdbZmYgEb5J1SVmYJSryzBsUBDaJAEqlwslITRY0HkdvKptDg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:14:35.879Z",
+    "transaction_id": "tx_1764742475838",
+    "amount": 423.67012072966423,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "7+d16Af2bcm5MnIjIP5m4XPRoxsO/pQWh1ytnLM26r/iXrY+gKWqmT0GtYcF2kmw7HDr5cj3q30223iN+aGcCg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:14:40.884Z",
+    "transaction_id": "tx_1764742480838",
+    "amount": 389.3930214180158,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "9sRsWdUm3WuJQnz/cZ0CCHnR5cb8+c8XE2iDFzIx+GgmTWVxyBNqFH0xdIf7QVnLHDbM3sUIsQHL35fPMkHpCw==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:14:45.879Z",
+    "transaction_id": "tx_1764742485839",
+    "amount": 296.06009924495135,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "lQFDV6YD9uoLC9L2HngdWS3SscttCGDCfJ09PyMGeXjc73qCypUZXvXwO8OI0GvhkQ2YbK0WvMefS74g40MnBg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:14:50.900Z",
+    "transaction_id": "tx_1764742490855",
+    "amount": 513.8148701873278,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "aRxPDaMLR4G7qFeSVDXRkUgDEojAeLulAqS9uDu+Y3QxzOzDTTMtrhirfdKcFjyS+WJh9mM33jWvngf/s6RtAQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:14:55.933Z",
+    "transaction_id": "tx_1764742495870",
+    "amount": 642.7225488925167,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "FIV+nxX/bhtStctXxzIS53LqE5hO4MbCrSsIjB0zdR1s6w95jbC4GCo20t6EkbvDdqx1BCli4F+lMFc2dEKWAQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:15:00.898Z",
+    "transaction_id": "tx_1764742500872",
+    "amount": 349.2010072820398,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "rg4mTiie2aAIwsaqiWUoGruV4AoYMtSBuICz9cyrp678hOjC5q2rzSRn8tsdUYNQfVAihq2uOy8G0v9UTWnIAg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:15:05.924Z",
+    "transaction_id": "tx_1764742505884",
+    "amount": 969.84780158456,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "lJ33bNdzohFo8Fal+AAHgU+jC6her63Q/qcXij6g6itSVdnDjqDkq1OTLwYutAUaFTuGD4yxPgtnmVWbj4+lAg==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:15:10.920Z",
+    "transaction_id": "tx_1764742510888",
+    "amount": 505.6176582270978,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "uPOA2gRELBDqe2gyznmY4E8IwKMgKoPZQY8ilF0E0CNlVGf+w6Cgj4Svj4WkRTAkC6W51+D17++ELAfc+vEjCg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:15:20.959Z",
+    "transaction_id": "tx_1764742520909",
+    "amount": 132.92566466214083,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "sfFC5SXeQM6RZHst1/koO5HW7hzb1FnXoFn49G3NpVM881aFNc7afcs545hxX5plDnqn/OEHrwQB4p7PWUXiCg==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:15:25.962Z",
+    "transaction_id": "tx_1764742525926",
+    "amount": 174.956698023635,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "uUctIao9hb72ROvMj+OGNn382coqIeoP3aJ5u48w+gRVMtfd3nO92CYDispyhiQc5gzrdjy5VstNFaTffN+zDQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:15:30.978Z",
+    "transaction_id": "tx_1764742530930",
+    "amount": 898.7145718768751,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "XmM4xwHAZr1MzRgjx93jJbFnohnEqEV6SomfI1zK5xk6ob/4G9oWpLcyKEPIDdL7ZrUpAOYdOgRDdCaSOlCSBg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:15:36.002Z",
+    "transaction_id": "tx_1764742535938",
+    "amount": 803.7730993610181,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "va3F2o5HmQ4rx8K5Jz6/2gFbdXnUT+n2ZDKeEvr5xsnwIRAgvvLEYHDmdHaZ69sncUxdq7wTbJEsUoVqZYJ2AA==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:15:40.978Z",
+    "transaction_id": "tx_1764742540949",
+    "amount": 315.69285260677293,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "aF1b6QwEPBzfYvz5S2nMuAj4Cakhp58sf2hLxrWc0thI2Ho4Lo19Mhpc7/lUvOO3jIjQDh28YBZBAdla5JHKDg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:15:51.014Z",
+    "transaction_id": "tx_1764742550960",
+    "amount": 621.9414403486182,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "xeR9+Tl1azdA010tHUCiEa8w3hrPMKmHhgirRfNWOWCGNrIUZ3OAqQ40shejFmm2rfaQyYpRsFSkeFWz1H7ZBw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:15:56.017Z",
+    "transaction_id": "tx_1764742555963",
+    "amount": 766.9619592832123,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "C7jAOrTVnAIHhfeOe/4z+iMGtnUkRZ+765Bcl+oCx2xSA+4Vr0GxWU+ukMI0afFByhLRpUMpg4MAo6fZD9GRCA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:16:01.011Z",
+    "transaction_id": "tx_1764742560966",
+    "amount": 64.92735428386153,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "uphWKeI2NcPGTGq4pqfJ9nd/98zcNrle3i6LsIuZjUsUfFJMJfICtwNpH0FBjx3wUBf7Z+7LdxUBB2h/7Fs4Bg==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:16:06.035Z",
+    "transaction_id": "tx_1764742565972",
+    "amount": 962.4522124901731,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "HtocrYY/TZRbGGBFSYeaFxMySqesLXWlE81qzX3anpR9mk5foBGFe8BbEokN864A3TTSsatiCgc0OV/EDSKjCg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:16:11.011Z",
+    "transaction_id": "tx_1764742570978",
+    "amount": 747.1469735404534,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "EDxFouZk8LHJCfceoNYpRe7lXlYbggEey7/PIRyikPYTyW8CLZY3Fx7y9qW4r4mtS2UsEfD0WL5+YSnxPDJFCA==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:16:16.059Z",
+    "transaction_id": "tx_1764742575984",
+    "amount": 311.9511360150266,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "+uicYfHkIbXzbvf4u5ctw5kkGpqn4a1dm74L9tOlS/3y2MIVT9x0ETvzgH4ZYMCa8lMF98lvaURzi0ZjpnSqDA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:16:21.021Z",
+    "transaction_id": "tx_1764742580991",
+    "amount": 744.6160946887125,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "K+sGU4gzlmeITKtyNJdNhsbOKMMc4KxWU9ABStj4tLZC5utFS/O43NgdaOSHdPNrdcYCLDebm528cpIJkshCDw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:16:26.033Z",
+    "transaction_id": "tx_1764742585995",
+    "amount": 334.0601103129581,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "S720R0fgg/FCQsp64/RKBpZZxlEB8DxzQ5OCbyeqFTMnlX7dDvfBDRnCgf74uU0240UUPQbnL1MH11feYH9fBQ==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:16:31.070Z",
+    "transaction_id": "tx_1764742591009",
+    "amount": 823.7882445132618,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "Z/t17h14xU1ZwnnkF2MMA3APlJgC0MrUt4Lj7U4EKhRgdXf+x6bkf1OS1chdQYWT3GuA6uxUpukqq+oWn8BWCA==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:16:36.064Z",
+    "transaction_id": "tx_1764742596013",
+    "amount": 837.2532181252418,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "yKNSG2pqJQt61dSTgAt0ekVoY0vnRudsMJCQ9Alk/izSKcRc9dibRxZlaKj2ARgziXGiV2IoXYti951i/PVLCA==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:16:41.053Z",
+    "transaction_id": "tx_1764742601017",
+    "amount": 821.6548323606144,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "ZScp7gp0sPsCVOmjTSW2Y3Wh1BSfsYPC0cjT5JLWrANAvPNZNWkT2z601igERY0Vl0SH5HKi9fT4+LvyFVo4Bw==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:16:46.070Z",
+    "transaction_id": "tx_1764742606019",
+    "amount": 402.1964716480868,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "QkLxq4jk0CMk0K0v51WdjxtMzIg274YiuNZbJfZgqZDk4Wm7FtCJhRh2KVzUgO9vtIa+6mZLZFNxJzMFa5gqBg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:16:51.075Z",
+    "transaction_id": "tx_1764742611024",
+    "amount": 836.6353867156546,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "e3JcqQa3GCFlEjL3VqnoDQNlnJMdv+pTbaTj74wYLqu3NwGQeOVcgfbGKs+g6cBeskCO09HOkdWHMdA0E4b8BA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:16:56.068Z",
+    "transaction_id": "tx_1764742616032",
+    "amount": 664.5127175538076,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "nDOgh3lHSsJoSTCrMEhHZPu3coI9zcy0DGke+AGUpCDSEc+S638T1jWYQ3BNpq+JuhiijkOYgGi0ajwB0trBDA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:17:01.063Z",
+    "transaction_id": "tx_1764742621035",
+    "amount": 580.1427110942356,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "cOPWbbfIzGNdtvWB1TzSZDKI92KHCDKMU40Ie3X/V4Jqdo23CZKfNpUSB3u0u+6xSk0SzOoKAwqsK5bH0TNHBw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:17:06.082Z",
+    "transaction_id": "tx_1764742626044",
+    "amount": 386.5356982134661,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "Bwyu1VUCkEILwPuZRY5Pu2n+WnCTvWfXfBvzygZKOYX3g2wwdooWCMGUxUzCLRaKftcH4X1+eGpCZgx8daT5DQ==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:17:11.086Z",
+    "transaction_id": "tx_1764742631047",
+    "amount": 760.021671938599,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "UNXlDXYJhOawDwy7wQsKxItWu87bcxMUCwqjpEnTnJBP2U2RIIGvrey6XzBmpoDRo7e+iLQzyerZ+jpl8H08Dw==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:17:16.096Z",
+    "transaction_id": "tx_1764742636056",
+    "amount": 696.3048369266335,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "tUAW0EdegIW6zWF8mxrX78cpIDzlmuXlp46ywxvOLQ/V//d5EZVyClEIDsD1cYily8exalQQM8Ay8rvtxctuAg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:17:21.094Z",
+    "transaction_id": "tx_1764742641056",
+    "amount": 588.7717614202311,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "nACN/8XfaQHBzDeRYEHBm5DOUEQXjSORej6AZovgOCWulYL1eO7NBp2aUY1bEFf4aOScqmNRgaKR8jl2pgGiBQ==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:17:26.110Z",
+    "transaction_id": "tx_1764742646056",
+    "amount": 76.28747556478666,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "sf1kwBa2KdyfXOFnekZJl4P5D+B8Kgszsi6pZ4hIG6K8M2XtMRxiFRljVEPMYvfoUz0rfC043mIqyHFW3y7ZCA==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:17:31.107Z",
+    "transaction_id": "tx_1764742651072",
+    "amount": 578.4761429607727,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "U+L0iHmyszmysuNcASNk542clb+n+5gndKwh4w0AuLEFMlmrrvAL1K5E7NEDcRxejBvJSL/sv2i7c/jbwHj4Dg==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:17:36.112Z",
+    "transaction_id": "tx_1764742656082",
+    "amount": 152.48402693777007,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "NYroCZrbj5AZq9goeeTHt7RB/TXLjhsdURjo0ONifXqu7fPnr1iTXzpQEpFRNbryGqZxnAA7fw8Dg9sCf5JvCw==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:17:41.133Z",
+    "transaction_id": "tx_1764742661090",
+    "amount": 552.5298831462653,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "O5w5QFcjWkpyCXy2uPF7lsA8vPmIneEpZ496Vgq+nJ5XfXs+QfkadLwLi5ios78Xr+5VLWUk6+VLu4gM/3NzBg==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:17:46.163Z",
+    "transaction_id": "tx_1764742666111",
+    "amount": 810.2164825573412,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "6IiQRxjNuMMt5I+Cjt8FQMcdAE2ybzjCP2C1qSPiuvxeukqKsbLE7WkGZ9n9NHnDdhF6PLmp1v4h2N3qHbEFBA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:17:51.157Z",
+    "transaction_id": "tx_1764742671125",
+    "amount": 643.9652198871944,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "K9WXd+xbkFyv0iRP2R5lwEAqbUB7eP5X1dmDkvdBYd8aVs3jtCTOvmAUIYdUH3FRwyOnHMb4qTKwOPYu/Xb6AA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:17:56.159Z",
+    "transaction_id": "tx_1764742676125",
+    "amount": 811.6630561931887,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "IFRnG4k520AcfnuTgJsZzdOrEIZgifF8E72wxq7hq+BwqbjZGVuMaZ1aHUJPeGHk+xyrW2ByHUwmVzWoqmxwCw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:18:01.161Z",
+    "transaction_id": "tx_1764742681129",
+    "amount": 391.07290539207116,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "EtEqlPtRJpTDOlwQJd4sOQ59f8+1lj0KXIXzLo15C4Zezjr76bgV2cSQbEZinFo9aDm9qPIOLKRgdUHWHdtyBQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:18:06.170Z",
+    "transaction_id": "tx_1764742686138",
+    "amount": 252.1594211977556,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "oJ9gH+JcRsAsfu9nv1KNg757PRNkElRqLYykiJi/mYYAhOPws4Yn3QPRySKR3u5LI6fH0cnIWhM1wL7aWF1aBA==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:18:11.174Z",
+    "transaction_id": "tx_1764742691142",
+    "amount": 639.4214214593578,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "79ReAOwptByWw0Q+vNB+vY5IczWO6OOuU5KKePHzojryPUGRoLXO9tBjuw2s0HpXdMcY2i0AhvsA0Dw1FXhrDw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:18:16.199Z",
+    "transaction_id": "tx_1764742696154",
+    "amount": 278.36914157494977,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "JCf4/Wi49BDR3DcIvIhoki3mjeYLbKsUcwfbRWkAoNmsKimxNisecC12kSct5LsfnBDOk8G8b+SVG7olgNWpDg==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:18:21.203Z",
+    "transaction_id": "tx_1764742701160",
+    "amount": 949.5710789678493,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "6QqbQzUisMBZGsJ/QhhadJHnTRuVBdsVD9zNRxVykNt7XCYJVUcYibbHp0Gyl7pZJEBIJpylIT6zRX2mXDfRBg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:18:26.195Z",
+    "transaction_id": "tx_1764742706168",
+    "amount": 841.5941744240223,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "WinusmTbg22G7+qCEuWV67T+CE1zubVKVUgANZoUJ9KCDoiAsyVV+cph36pUz+S4bd5tnNGDzFI0WfkY7AzLCg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:18:31.227Z",
+    "transaction_id": "tx_1764742711175",
+    "amount": 85.11785187708031,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "IMd5vYVa45qzPNZqEk5sx02KfN6AfZVSERx9kYBW5ULhnKrH+4msyLQJ/B4UAaCDp13SLndsAyNwC0FYDSo9AQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:18:36.210Z",
+    "transaction_id": "tx_1764742716185",
+    "amount": 759.1234653408724,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "xPPcF75mO6ttdPiHl9NSbGjmc9ByseOrdZzNr1mUFoGwDIjjjSYENkBY0htq34evNMpWV4dDlpeiHyeQcXTnDg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:18:41.225Z",
+    "transaction_id": "tx_1764742721192",
+    "amount": 173.7014478132759,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "gi93nOgonyOrBrTYh1atmQERFdYXfmyq10IRi160ioxSo4HlZMAQCa69OXMIbX4a9IDvqv2b9mRHaKWjQwBlBw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:18:46.240Z",
+    "transaction_id": "tx_1764742726206",
+    "amount": 671.051727877561,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "qRV124lp8s6Ilxec3rMsn8Jvs7QzpD1ar7tWaUOViHht4NZ06JL8ND3R/aVUaT54xB+f1oxg/T8wWTFbDZpdAw==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:18:51.255Z",
+    "transaction_id": "tx_1764742731209",
+    "amount": 849.7086062451607,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "08VIHCBq4Stc5SQC9AojW5Xa83Ia/kyFzkWv5KMlC+eiIa8rB/wy4hZu1VjgVh4uJaob5l8rjKpNe7D25CcdCQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:18:56.254Z",
+    "transaction_id": "tx_1764742736222",
+    "amount": 253.05460019960378,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "/YiBqHuoIkYomsmXZSnPVKmc27ty6of4fzrM92c7nedECL4tZp64iyuipO0j0qwaHZz2/zHLi99AHbclIE2uBg==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:19:06.295Z",
+    "transaction_id": "tx_1764742746237",
+    "amount": 687.8171825849035,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "0+DLkj6egZIqeJ3JLKtZWbCJj3WTr4HRP+ydKMBcB6NkV6LLiY23oHLzQTbyGga3JizKM+1ivuQgLK02nMcwAA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:19:11.293Z",
+    "transaction_id": "tx_1764742751251",
+    "amount": 567.9842814088695,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "pagLePiURIoYsf+/Yeqb0ZhkdZGb16VJT+cwy7A0VkW6dQeZ8B5HGEwUna1WyBqhNtWsqO5A2JZTmzNmcowjDg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:19:16.310Z",
+    "transaction_id": "tx_1764742756265",
+    "amount": 373.5168823918095,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "NcMHINKncSTQTTNHLwo9xTkBwxetVALtyD74p3cuTgsu5H+ld3tj2svl1HPHlTGaUFbq+/Ncm8EUNYN3IWkEDA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:19:21.310Z",
+    "transaction_id": "tx_1764742761280",
+    "amount": 264.2899087035492,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "Te0LrMKYc+R7FjhUmOd7Bg6EqWnVLB1eyrwe/6CoHqgv+i/cyuITRYSP/xfWNqF7jGbsoxfoZTvNwcGCAON5DQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:19:26.310Z",
+    "transaction_id": "tx_1764742766285",
+    "amount": 381.620925239065,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "mBO6kdNhiR2XUfI3uah2QpGgtAtpzmCO7QEwqBw2+/Vc1YwMxOiJDB5WsnsNKBdJ2anHFiafKFL/Q+CbuFxIAw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:19:31.340Z",
+    "transaction_id": "tx_1764742771296",
+    "amount": 662.3759554252858,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "7wQqFhWMIx7jeYH492XnCHFydq4T0pR/q0BXjR5xqWKpUnutjQw7xE2jR7CyqY1WVBTfMKrvMYYBvDknVSGNAA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:19:36.353Z",
+    "transaction_id": "tx_1764742776310",
+    "amount": 260.3327572328593,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "p0OZ64OGX10jtwLLAxJcGgN60+qMmka6ig4yOU6v+gUsiTeUj1lcDWLu7IllyVemR4h96S3KeTRapsyw6Dc0DQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:19:41.351Z",
+    "transaction_id": "tx_1764742781322",
+    "amount": 439.71398657439374,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "1kuB0sNu+osih6UmJI98bv1WPBWAerH2k492dKANAqJ9JlGMoCYUnVmAHGvI5M43D4hm5AAmRjDljiM4G+jOAg==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:19:51.376Z",
+    "transaction_id": "tx_1764742791338",
+    "amount": 581.486099833221,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "J1ubVgAjr73jTpBMXUQl+9SYp2SEObeTB8zJqc7zC2zUdtDuNd999DSydk9vcwDlXvUI5SRURoh06Whk1YrBCg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:19:56.392Z",
+    "transaction_id": "tx_1764742796356",
+    "amount": 907.9232396172505,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "saB6RkG0WGqer+lMYiRcsOwbHxjuOMt7JttONG1tpBOv6GMi+bfoWSmnBBPZxR1bjjEF87dzyY9KA6JfhUX3Ag==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:20:01.411Z",
+    "transaction_id": "tx_1764742801367",
+    "amount": 36.769788280267115,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "o8PW07TiRPYgGmwbQNyCOilC8qBJysLnbTD6U+x4IAMvm669P1GRDN32LhL0LpgEbZrcRrE2u3XMAwPBWyjoBQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:20:06.410Z",
+    "transaction_id": "tx_1764742806382",
+    "amount": 591.3554653089258,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "EcAwz7Gqz9/Mui+kDYxm5QGiAxH0BmGp46LZ4miBSgs2VIdJFRX9hXjzlGCkxJNsHLJGhaREMeizUT21Z0teCQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:20:11.416Z",
+    "transaction_id": "tx_1764742811386",
+    "amount": 517.1688473948682,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "+LJvA/x3CMn2TRqDtpX9Mry0810fgO8qvrolevz+Fm0gcL84An09zY2r4h309Y6QUaShlaCmOiD6PCcAvM8gCA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:20:16.432Z",
+    "transaction_id": "tx_1764742816400",
+    "amount": 832.4284249929146,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "WGmDbweUOpnpmIpI65j7pHJR+uyt6jzhqgvAIqwfhZKjJOZbxHoE84nRSlkDi0ev0/y/oP028nbcEhVrnVRUAw==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:20:21.445Z",
+    "transaction_id": "tx_1764742821406",
+    "amount": 414.213005285338,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "i7qoEoZQ1h6wvIOaGXoHi1r8CbPE4DI5G0Jd1okv+QzD8XTl2d2x88o4zCRC65S0XfJV78wduYkAyh+6h9w+Cw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:20:26.444Z",
+    "transaction_id": "tx_1764742826407",
+    "amount": 285.9488425962162,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "Z2xP0+KvAnybN8xczRE61NWku/aHpcKhKBQfEZpPzCAMc5StC4deHhw+ywwsXaBCnsTVnL2jo7TMcHdyS77SAw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:20:31.458Z",
+    "transaction_id": "tx_1764742831411",
+    "amount": 3.602471222592607,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "ZhnR/4r6PWwPSCjBjwM3QwYzNjiDM25MqdmWbptDzZJ6FddI2yDLstHmxylmL0RKcIel7wV9oEVEJRxV7seJAQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:20:36.449Z",
+    "transaction_id": "tx_1764742836417",
+    "amount": 209.12895906074846,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "Co+HdnTaH66ErMFelcSMReF7oMg1lTSl+ogGYgrktK/24AdMATVwI4lufIrHhFcV0mlU3njrQLoz8PO+lKUOAw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:20:41.455Z",
+    "transaction_id": "tx_1764742841423",
+    "amount": 196.580344937751,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "ktocel0OspZIsFGUFZeZ7AmFiv5vUiciZ02AhLqypDUKSfVMak2Gwb7qyxBfEzK2moWd+VaYiwqGaz/objMXDQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:20:51.476Z",
+    "transaction_id": "tx_1764742851443",
+    "amount": 82.32450560453842,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "mUUcVa0akCJ+hzAcZlAUKxvkUA2a8pF3jjKgjvlcV4i3ful0KV5DSmhLhps9JaO/Y+/V5+NRPC3bmjeckaNuAw==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:21:01.524Z",
+    "transaction_id": "tx_1764742861460",
+    "amount": 209.43181721968273,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "JKGi6feFwUhRZBEPDuu+8DhtnflxMQiND+tSa7HQ4L8mMoA1IoHtoyObQTLEb7lEWuslRqaVVlHPCrUDSKzUDg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:21:06.507Z",
+    "transaction_id": "tx_1764742866480",
+    "amount": 284.28458748468233,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "7YSo3gTJpvuANqAQVgibbi61PBunbKr/gUXSI6B2CQpCbCs4Mk0cB0VIuU5xA2vXs4rlp0VaCiVzkXVyFuwaCQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:21:11.517Z",
+    "transaction_id": "tx_1764742871488",
+    "amount": 780.536095307241,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "VaI3xDCa9G+sGG4QDMFG8Cd7ssyt8MTA2hRqYpbhHB8mGYF+bxzMV6yRuIjtcdtuUf0aTYBEVchmaLc2puqSCg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:21:16.520Z",
+    "transaction_id": "tx_1764742876491",
+    "amount": 272.9723593262765,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "gDeX0+gZdwM+jtaJnFUvKpvczbVLs9hRXKXxb4RfDKUpJFRYefcn8DFG+5xKCDMSchr3zKui4nEUCVRy4FwGAg==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:21:21.533Z",
+    "transaction_id": "tx_1764742881499",
+    "amount": 532.6758404160632,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "IjpBGQfbcbeTrzaf+w+KKmarbQRUiRwbfdkM+tTK3EGPpk/jr4BueT09xrzCAvOBc48p5djY82Of/JO80XhzAA==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:21:26.547Z",
+    "transaction_id": "tx_1764742886510",
+    "amount": 150.0820990506625,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "96I1JqC98isnQw2Kj89yqwWsl1gCP5966Nn/czLvQtdR+2XrAk378EXNdYGSssqcs7LR0232EaMBrXsjWeTZCA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:21:31.558Z",
+    "transaction_id": "tx_1764742891512",
+    "amount": 689.4284230457179,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "bR+OxYiA8WgO20a42BgezsNy/md8mbQGP75oMZ0uIV9au49UtXXPy1riSVIs/1Hav0yG6K97LEk7q6FbB+fmDw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:21:36.556Z",
+    "transaction_id": "tx_1764742896527",
+    "amount": 831.1254947748556,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "DRNGK4fbS8OI5+IRg35c+41vcxeceNZbYplgIa83lo/WLyCYG2VKiLRM1o/e9dh95aLTPfiq5K0urWf/WpgpBg==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:21:41.564Z",
+    "transaction_id": "tx_1764742901538",
+    "amount": 806.9410735373463,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "HnlQHfedjSIM2e2GdQONr54Sv6LAfTQ9NoK3HhgdI8xD0FFT5IDE3WVNo5MI4R5ZRFP0KvEt3vuMtDgKQNuVAg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:21:46.582Z",
+    "transaction_id": "tx_1764742906542",
+    "amount": 622.6925522558585,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "Be7ZZZv+5o7yqCww8z+h6LgaHH3ahLAM8BNojDMeX300TACZLtFOzqiXyNZYwWwIWTJMhR4Yn9/nt9R2C/lODA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:21:51.577Z",
+    "transaction_id": "tx_1764742911549",
+    "amount": 495.94168971188077,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "fXgLwWHiBx27/YzjlU9Ct8dFo5Bw+SbaemkuIOKCCC5Ys0LUSiPfYLoL/kGtC3kOCIXZf6zxo4qmNLSNC10QDQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:21:56.581Z",
+    "transaction_id": "tx_1764742916550",
+    "amount": 223.48745104393896,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "5HUIRkuHv/boNpEIVHZ3apMd7bViugaaX5BaRw23oA0jA/V/vj8oE+4X3oyaM2lVczk2NKBSvRiFW2ugRfxcDQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:22:01.603Z",
+    "transaction_id": "tx_1764742921560",
+    "amount": 627.3391120859336,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "dtui5eKDJIce8A+KYPXyvGZJZocvm0Py1whGgsqqXpv1fDSIwc+UB42LVrpw+7NS0cWhkeCJz+qR9a4UOAy0DQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:22:06.662Z",
+    "transaction_id": "tx_1764742926565",
+    "amount": 592.5242687946111,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "j799pnApepoKs2y0gnWDkKX8wRMdJ0ZHC2yW67d0QEg07K2hRJ1S6z3mIhQjSBbikbIFd/dETuI05jNYGAs7Aw==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:22:11.600Z",
+    "transaction_id": "tx_1764742931570",
+    "amount": 791.6807510051826,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "FTT7I7VNcG/rAFfdDrUDvFN9Pctjh1s+ChaIvzlFEscnsIp7tNqWEa4M6AZEl/Le8UF+hXOPgc0ju6rdzgZWCw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:22:16.641Z",
+    "transaction_id": "tx_1764742936585",
+    "amount": 549.9008366174581,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "K55ABcMkAcsxBaNSOW/Nly296YAEMdFVc4d8zbEWcKvvZrIsNi4rwsnpVJ7Cr3DUJ+fUJK4daKFAGP97pCrTBA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:22:21.617Z",
+    "transaction_id": "tx_1764742941585",
+    "amount": 970.043759990242,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "Vptu2U5n72zjDx3fHsHCP1Zo4I9muqFLf7zZdtgX7MfSVI6OCKmUTGGvyAD+4o0UlDpHgXUI8gyYhoyAZRG+DQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:22:26.624Z",
+    "transaction_id": "tx_1764742946596",
+    "amount": 704.7046681295233,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "O0w3Ko3xKP7vO6V/cEDjVKADEtvXP1/F2uzOZ6YcnClZdz+zh9KEQqZ1w/OCnBhg0NFhGk1OFoREcDaLCxJ6DQ==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:22:31.657Z",
+    "transaction_id": "tx_1764742951605",
+    "amount": 671.0509330799024,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "B2swoW0QrwReCMfVVL2bOy3Y5YM5FP2OC1TXZcfdKqaplqFRO9mucSp9q1YTyQujod1f534hG+LIA/8XqRvPCA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:22:36.666Z",
+    "transaction_id": "tx_1764742956612",
+    "amount": 920.4378090355326,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "kuelfuWgCuoLmoBffmmvLXeVE0Nxuf6StB+MblPyVJzJeKxEf1+NhuU74go3MvTRzHSFvE3LyEYQJ1q2yZ3aCA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:22:41.662Z",
+    "transaction_id": "tx_1764742961614",
+    "amount": 615.1165518123447,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "dAFI2i+S0zjUqV3JYoVk9feVk7cdrScNM/qMu7CMshL7AP+vxgjis1310mrPQ4jO6qs0wSF3cuVSb4kaTSbhCQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:22:46.658Z",
+    "transaction_id": "tx_1764742966622",
+    "amount": 460.620953866437,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "HoAbKpdC5EQJZ0A9Qa0Sr0zgpaIzEoyFfgoeNsZ7i/eMUTu/5DbVWdwadvbjSU9PkjRpBxKaydvJlBusrw7SBg==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:22:51.668Z",
+    "transaction_id": "tx_1764742971626",
+    "amount": 415.671845915442,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "pSbzu5EeKCyZeq8pg+IBsZ9eQ1XdxHALy0PjCrAR5pTAfy50I0Bmft9q8pZUqjtZqovRkquIqTNuejFCs1YOCA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:22:56.692Z",
+    "transaction_id": "tx_1764742976641",
+    "amount": 915.6959252678685,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "Bs5Ce1rGyzXaGaNNtHbgPI1qwXPMuUw/sqs/Ww9xHB8AbwUZEFvELpd/2GfbKmP4zaV56mpMVQmeffVwgFNRAw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:23:01.800Z",
+    "transaction_id": "tx_1764742981648",
+    "amount": 411.73909233452446,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "Dv7RhA/GcKwlxk5e4unoKOHNR0Nvx6GkzzxR21guHuT2+/dU1ypUzjWm0/pelMYU6+miBq0j+0ml5krdElUsCw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:23:06.709Z",
+    "transaction_id": "tx_1764742986662",
+    "amount": 305.52874490880845,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "jn3a2n/WBPfMqQn+o6dbExgjYPDp+4oTdszxdmJNl7F8Zx8EopQcWZBN3Thqsyvl2nXSkk5/E5Co8ETJBPqSDA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:23:11.700Z",
+    "transaction_id": "tx_1764742991667",
+    "amount": 56.989172909690076,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "KjYr+jmIR2vdcZzCyz++qu7s5PhBqK2NjqhXb/yGJOTUIYT5QZDhfmggRqHRzk8YAR7T+c/8SkdGzYAATkBuDQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:23:16.712Z",
+    "transaction_id": "tx_1764742996672",
+    "amount": 360.2943087645538,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "QjeGZA8dKw93Bsk4lk9iZFqveT3Qqb+PXaLVKdV8O0Vd+/dk2pL6ImEucGlbRyE2Khnajcw1DnaFxa39qE7NBA==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:23:21.737Z",
+    "transaction_id": "tx_1764743001672",
+    "amount": 206.54180820337908,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "1/Bw5Ga2n9Jtwy7scsI6OeO4oJ2UoS8/pvB8hVFKGg96pODN5t3ncRhhZSLdkcZ9nzGiacq1CYlFZWb146+ECw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:23:31.765Z",
+    "transaction_id": "tx_1764743011679",
+    "amount": 569.3937248784943,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "mIlCa4rtsRT8FHTovziu1JyZ0kxwVqGlrenVuU8cnVe0r+XCam+QWZ17PK+0yCUzREI3xfa8BMih3/C2VjY5CA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:23:36.757Z",
+    "transaction_id": "tx_1764743016703",
+    "amount": 740.4782038932981,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "v6mbzh4s7jC+6De+T0Sb98kCnATyj4nHTHYE/u40/a4aDTXPu4xHOE9wbS584tgOnP1XYw2sDRjC+YL3TNPcCA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:23:41.767Z",
+    "transaction_id": "tx_1764743021713",
+    "amount": 672.966652824829,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "U5Pco8a+6rseMZmuOrPvziP/FzqsfMHyXqyZP/Aq220bVLqbejlsfwIFmN1o2rTYgBsCOnh6SRfWE92OYsMaBg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:23:46.748Z",
+    "transaction_id": "tx_1764743026713",
+    "amount": 377.73193865020204,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "SQ1kuvf4ZMbJz7IcwIMOtyPqldTsk4pd/t+ruXjTgbOSs26MIsrmCvz45jw2u5radvY/s1hmfU6SELbxFP1CDw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:23:51.830Z",
+    "transaction_id": "tx_1764743031723",
+    "amount": 40.96851314709626,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "02Odi09fsQWtpb92wOT7uidXVBSWkuZvpleAo4EsLFcxYcRi8l7aCHS0h5P3yJo+sjpCn0EAWZklv3qq7MXKAg==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:23:56.760Z",
+    "transaction_id": "tx_1764743036725",
+    "amount": 436.1357909645596,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "hR5MhvEAwkq4K5QRxx66fifdtgsVbHexqqdzJfukm8wDS5syzIEVklEFfM69GZoKN6FT701EBy6RYU5wvQaOBA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:24:01.803Z",
+    "transaction_id": "tx_1764743041732",
+    "amount": 417.3003004311004,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "GvjXDnrZ4HPSQkgHuNa9uR/OG8fx7uLvKoruM00tXhE8NN/+PxZvLhAzU5/4PXY13Zx44gdsOk7fES3mJdlZDw==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:24:06.771Z",
+    "transaction_id": "tx_1764743046740",
+    "amount": 726.933161064476,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "qw49SWEWT/nadn3uQcCFtsebBRwHWMpNAlmQkYS3w0qtPoivemHQcW38KcbAW/adZ0765S0OhmFl3OJuiULyBQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:24:11.781Z",
+    "transaction_id": "tx_1764743051743",
+    "amount": 243.1962526293171,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "7Ozj3hgsQCDmdagyO4K1vYcWgQnvX1N88NDpqq5gabkDXBpnD9QTGTT8TLixMqSH2biXinCz9Bf50PfX8XnwDA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:24:16.815Z",
+    "transaction_id": "tx_1764743056756",
+    "amount": 525.0441114806455,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "OKgbHcLDBXttW/sgSJHed1xYL292WZgo9pm8AD6QlrZC0Nk3pEe3+rOSGDz4Azd2ADMlpuKMbPTzr+zCNqaXAA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:24:21.798Z",
+    "transaction_id": "tx_1764743061758",
+    "amount": 334.5220878423434,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "80Xj8lnVze625f+rshA1mJdORajUimZYLzaJ2HtGYZefEasv43JCkel/l2gG+vfh51IX825ByAPfC6HYoqYwBQ==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:24:26.827Z",
+    "transaction_id": "tx_1764743066768",
+    "amount": 869.0627285205637,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "in6oKKBl7G5mYL1TcOLC3EZj4F9k6hv8ySK2aSb1ZzeRt0mmqSffwx248liKYXPTJhjxJg2nMRjzfCiCecwlCA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:24:31.850Z",
+    "transaction_id": "tx_1764743071783",
+    "amount": 414.91256966915256,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "FmT829tSnizu0VHGefTNnx+16HBexaCi1xJrKDVbgOWLWaukLmp2EtmCTZC7QXcqxs3MgllSMqQvIgUoM926CQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:24:36.854Z",
+    "transaction_id": "tx_1764743076795",
+    "amount": 559.6839979644205,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "8ZqL37VNrY3EAuP2npfc5O9y3OHiyOswAgZz0syPuHgCdxxGkaau39ISqhFo68gSgtEVUmo1JMXbCymEddWKCQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:24:41.839Z",
+    "transaction_id": "tx_1764743081801",
+    "amount": 199.6757332715483,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "aMETnwRhO/XJrBdNnvQdP+doepeKjN+PwbGxCdVbUgxu/AbvA8Mas1S7vr/8+zyab2q05Awhv1QnN0tNiFqJDQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:24:46.876Z",
+    "transaction_id": "tx_1764743086812",
+    "amount": 778.0650987426656,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "ZR9mjE6dPSnCLTQ/0l1T98OlhbK382UHUcnoaa4XS/LuQcKuNaIcs8ZKM0Skv6CByZrE2DG256LRN5l7gDDXDw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:24:51.852Z",
+    "transaction_id": "tx_1764743091826",
+    "amount": 59.60779626519474,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "f0gA8gJl4aiQi6reMyjT7Mv2llSgfjCJFHoH+e4zPAkYVHKC6RJlzJ7qHw27H5EcyrMswez+r7Bx9EoDoCLEDQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:25:01.897Z",
+    "transaction_id": "tx_1764743101832",
+    "amount": 360.7368036262316,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "GuDB5PisoFc9AmWCW3rINCBpbzrIqL79X75oC3SXtw68VdHOLGJWrkCiO4IXQ+vCnRK7V1ADXeRoZ/HQITh1AA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:25:06.879Z",
+    "transaction_id": "tx_1764743106841",
+    "amount": 30.794729174643987,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "D30BiZ++Wrd/3GhTfZZwA15GpqfJkC0DfP1PpL8yGTWa6SGMV9kNCwFSxf/nfwIfcNfloMYZSN9mbhb8UtvDCw==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:25:11.904Z",
+    "transaction_id": "tx_1764743111841",
+    "amount": 299.0887232151441,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "3LPVXd8CwQNWPkbymGaFPnu5T3tvWAzi3u4w+U8//mlD9OTFMy7btiAwV4Ie0krbgT/j+gD2UggQbIL37KVlCg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:25:16.909Z",
+    "transaction_id": "tx_1764743116857",
+    "amount": 118.25190113698392,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "N/SSAajQ6h1ryozfF6FnFVqK1iR9MgpY9/I8KbDrA57j+mqUm1ZMEu0/QUXRiagM6Ht+TvzantvYuyz9P9yuAw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:25:21.945Z",
+    "transaction_id": "tx_1764743121865",
+    "amount": 986.696772851585,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "6GHpdBhT56cX5PwWq40s+9JULfo1XNBEHrhZ5rhFoxxF/q/WIW7mMSPatNbgd940kQJTcnzRhCn/A4CMNVDAAQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:25:31.976Z",
+    "transaction_id": "tx_1764743131885",
+    "amount": 173.04172792972173,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "7K+msqVmnSRV7L8CGMleEUVaq6OxV62KkGg7b6BtuXnLyKdn5coeBODqYzxTYwyJFdvvmWotSG8M3tlYZW8hAw==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:25:36.957Z",
+    "transaction_id": "tx_1764743136893",
+    "amount": 988.2314021913712,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "Rqku/ghuO8Iyyb9i9kV+DRfWqh+lpFeA0tC1cx+roGLw/qcdFBD40i2A8sIQGIv1H5nJkAEquOSSHpJGgE4EAg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:25:41.943Z",
+    "transaction_id": "tx_1764743141895",
+    "amount": 757.2963673187309,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "p86TJtG/hy6t9GRMb9Fy/wwIaX0loRrVmoePJy3U4ybyQNHxlFWckNsviXP9/apgSz8cZYLsnKm9WavptiYDCw==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:25:46.972Z",
+    "transaction_id": "tx_1764743146907",
+    "amount": 719.8492795363709,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "0lp3tkuLmiNP/Exw0+4TV0jXdO1Xvn2fNeEpGPwxFVxjol3qTurZIeqh9+wQ2fiQ3KpVhMYQJttDnf1ZhfcsCA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:25:51.958Z",
+    "transaction_id": "tx_1764743151915",
+    "amount": 983.7781260351161,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "d4ekL+1wRu8q8AkYydocEOs6vEsKzT9q2LO37Fj6pqvBmrYLuyrOE1LkTqjUAf7VsneRTQZZGStIHwTaxurjAg==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:25:56.955Z",
+    "transaction_id": "tx_1764743156929",
+    "amount": 890.0286242559247,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "abvPLjp0WgG4w5qddMaHRTdo1zpzg8wyXjH0JWjFZFsMAONEqBn8CbktCb/RwyKj5OSI6YIJ9/rWGBUCzE93BA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:26:01.971Z",
+    "transaction_id": "tx_1764743161930",
+    "amount": 289.1115369281507,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "3gPMkah8WwrUmT+eBDv2bDJPwk0JuvlG8V0bLKDQuFtWBWP/cyW5X6RKf+927xSXPQfjar8j0VnADuBiuh+UBA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:26:07.009Z",
+    "transaction_id": "tx_1764743166931",
+    "amount": 236.47211101877397,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "bK1n+4XKjeka1mGUONR6i13bP1Z8tGm/wQ0xg2f88Mtb0tWMSBEdP2Qq4EQS7CWrYvX45XxmLdkPMQzVeUagCw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:26:11.977Z",
+    "transaction_id": "tx_1764743171945",
+    "amount": 327.180268831619,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "zbOIv62yQw3/HuAivyg7GhWHLvVE7bYPX+kvyufaUlx1v40By9ZnxW+VWxQE/Qq0GzQ0x1QpD2LKohYB9SOXBQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:26:16.980Z",
+    "transaction_id": "tx_1764743176949",
+    "amount": 716.6320533767705,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "gX5Yo70jfTT5al4Oo3VD0yKynCt+H8Hc3tZWqGE8eS4mT2YuUtMC5hw12ZzppD2HIKjilsB9ewgeArDkjStCBg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:26:22.001Z",
+    "transaction_id": "tx_1764743181956",
+    "amount": 565.518590360995,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "OEuJ2g2V/1wXI9zpNpQv2+ceGdG87iQBpcVlwwy7FGe+ZRpcmwHREr80KJApT/Q64OTJ2Af2gJOjhzvssF3HCQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:26:26.989Z",
+    "transaction_id": "tx_1764743186956",
+    "amount": 0.5657011258404232,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "XyS+1KuHCqiBzpXwNIjd1485+xHcsnrNz0culh31baWKQhExjGmBYVFuqG4gMuJo3EB7ZuNpoM19uwQ26FNuAw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:26:32.026Z",
+    "transaction_id": "tx_1764743191967",
+    "amount": 577.4904367032942,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "KcxbdbD681Ogo+sTepjWim90nkf1P8iyEpN8ZRLDO9GHOhJn+vLLkoJgpcMhlWLSyvBFC0ae9LjQlKcq+Gg9Cw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:26:37.049Z",
+    "transaction_id": "tx_1764743196974",
+    "amount": 924.058191480033,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "DZ3F9f14aOlGQyj4lJHblV8mb5HIMics4ZKVW9afdC9AoCx7DLL2BiP/Qp4dzxVuuWY54cR3cI1OvR+N4aalAQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:26:42.040Z",
+    "transaction_id": "tx_1764743201975",
+    "amount": 814.336842034431,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "+wXoWAdkiBgpcB3HE8YQn/NtuMZ3+36aRGET1iv3yoDMDWX4ARq0HOuBtrbUYuL1ID4nsobcJ1/oo50Ig2+7BA==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:26:47.037Z",
+    "transaction_id": "tx_1764743206982",
+    "amount": 68.6022777043186,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "rLGLndMLqekh6DPXLV+VaYf6w5Pr0T4PTMYKDpBpBzQOGJHgZM9nY2NbtdsbYxjDbJZdqlzPN20hyxr5FeTFCg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:26:52.060Z",
+    "transaction_id": "tx_1764743211985",
+    "amount": 50.88960155585198,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "yrEI66BJYI3TPoBAIdM//3jYe7u57X4JMO5cERPN0eTOaLOQ+3TvRVPgpzYDQLaRp2PB4VoQry1h09+y6hT4Aw==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:26:57.076Z",
+    "transaction_id": "tx_1764743216997",
+    "amount": 876.8638258959106,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "GAyjZ/C91M3jNcFSj9Uq85bsve4dNGDGxsrbYrnalu/mAf0JDVCN5MCnjR9z+4qcX9/ftP9mLI8qWB9xH+XMAA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:27:02.066Z",
+    "transaction_id": "tx_1764743222012",
+    "amount": 613.7686463724743,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "qMupfAshtUI2YMIKaj0k06nOHJ9S38F7O1gna+U7IFZvoiTBCU7UuBMBEmxKl38xn/DhcFQ9w4JVHIcUB0OdCw==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:27:07.061Z",
+    "transaction_id": "tx_1764743227014",
+    "amount": 890.7299495722721,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "IizTncxD0JfJcwxjy252ixsoCA/E9B/OjYqo/aoFNIF97oyetqQEZsxXUxjRqMNS2xWIOjNM73Dq/U0ToEuxCg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:27:12.062Z",
+    "transaction_id": "tx_1764743232020",
+    "amount": 280.01954627087724,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "WjQ13y3CpuUNn4KRgg2lc9f3Pvvfxo1zrQmsTaTmvvEl9AHuKLpd2I9dcA+PreG0mnyAh/aUI2x5gliIdG/DBw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:27:17.093Z",
+    "transaction_id": "tx_1764743237028",
+    "amount": 708.0804705235646,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "0s0c9n4sQ6MA1E/rtByi+aeTpBVcwTSIT3hgmm+tg4StKwNum5systLuuA2/Lcr+ad4l6XuSegGBLnbXebtwDQ==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:27:22.154Z",
+    "transaction_id": "tx_1764743242034",
+    "amount": 177.96900875624544,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "t7yti/48hWMvqCpgZ237vwAun1uGRoXGOBqcBrTTCQn91wg12jrVddAkW2cx+R/ERFk2eqknC1EGmlRDOf2mDg==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:27:27.141Z",
+    "transaction_id": "tx_1764743247036",
+    "amount": 230.45265749239928,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "aBM+/sWQTrZcwPBSczEyh6eKpzdg5eT9bLtiwijmfk+fxnpieEdGjwlp/qEjh/+prtBI+FoYcwpnxf0/IL8iDw==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:27:32.081Z",
+    "transaction_id": "tx_1764743252045",
+    "amount": 605.9044793803594,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "ziKatcP0L8zfx3ZI/FUEU05c1I4txwll5+DzEDqL/49jFeMmh/sI7whDUuziZO30Kdn5jGa9Na9KZeyif2mxCw==",
+    "status": "REJECTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:27:37.097Z",
+    "transaction_id": "tx_1764743257048",
+    "amount": 68.53110295397502,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "uDV8/6ZKfUc2lySLEqx61eNomcCUvbobH/8Q2XxKMriUqILwj5jTJTwaFEnWk+f+bh1C2pFOMp8gsS/nUhuOCA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:27:42.115Z",
+    "transaction_id": "tx_1764743262061",
+    "amount": 158.6723694703841,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "iquwZnJD50KB4aiLpjMvynP9MCqvc2+l8quCnp0XKf/HSIzU4KawRfrqF7U7ug/hccXZGrFpZlYW+nRIzMNEDA==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:27:47.117Z",
+    "transaction_id": "tx_1764743267070",
+    "amount": 838.0566978692467,
+    "fraud_score": 0,
+    "is_fraud": false,
+    "signature": "VouGXgvyx0GHGX0KjJvDKKTUgqIvWgP1K9Gvbq4Rs9uSCekbe4zDlPncTHCPbhciRKm4Ja3oXOkkCf5eOPxJAg==",
+    "status": "COMMITTED"
+  },
+  {
+    "timestamp": "2025-12-03T06:27:52.131Z",
+    "transaction_id": "tx_1764743272078",
+    "amount": 629.5858275331112,
+    "fraud_score": 0.5906016171774586,
+    "is_fraud": true,
+    "signature": "fudr2sj4+9zcL8hBGefKENw2J9qz0qbXCuW1O+DblaAeJhTTiIGy0qwhYY+Fb1CRdCOtNI+aNICq8b+VoNQmBw==",
+    "status": "REJECTED"
+  }
+]
